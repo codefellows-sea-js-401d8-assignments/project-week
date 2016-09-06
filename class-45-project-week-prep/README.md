@@ -13,12 +13,7 @@ Hue-Manatee
 https://github.com/hue-manatee/hue-manatee
 
 
-* <h2>**INSTRUCTOR INSERT LINKS HERE**</h2>
-* **INSTRUCTOR INSERT LINKS HERE**
-* **INSTRUCTOR INSERT LINKS HERE**
-* **INSTRUCTOR INSERT LINKS HERE**
-* **INSTRUCTOR INSERT LINKS HERE**
-
+* <h2>
 ### Rules:
 
 Your team must adhere to the following requirements.
