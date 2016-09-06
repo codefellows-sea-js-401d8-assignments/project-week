@@ -9,12 +9,11 @@ For your final project, your task is to work with a team to build a web site tha
 
 Here are some repos of past student projects that you may explore to get a sense of what past teams have produced:
 
-Hue-Manatee
-https://github.com/hue-manatee/hue-manatee
+* [Hue-Manatee] (https://github.com/hue-manatee/hue-manatee)
 
 
-* <h2>
-### Rules:
+
+### Rules:  
 
 Your team must adhere to the following requirements.
 * There can be no more than 4 people per team.
@@ -30,18 +29,11 @@ Your team must adhere to the following requirements.
 2. Throughout project week, your team must work on-campus so we can help whenever your team is stuck.
 3. On the last day of project week, your team must present your project in front of the class.
 
-## Project proposals
 
-By midday of the first day of project week, your team must submit a proposal to an instructor with the following information:
+By midday of the first day of project week, your team must submit a proposal to an instructor.  
+You should be able to describe in your own words our project's pitch including the problem you are addressing and corresponding solution.  
 
- - Your team's name
- - Your team's members
- - Your project's pitch. (What is the problem statement and what are the benefits of your solution? Read more about these [here](https://www.bidsketch.com/proposal-resources/proposal-templates/web-design-proposal-template).)
- - A diagram of relevant details from your project's domain model
- - A few wireframe sketches of your project's pages
+**TIP:** Use pencil and paper to diagram and sketch wireframes and data flows.
 
-**TIP:** Use pencil and paper to diagram and sketch.
-
-Proposals, written or electronic, as per the project description, are due for review with the instruction team. First come, first served!
 
 [-top-](#top)
