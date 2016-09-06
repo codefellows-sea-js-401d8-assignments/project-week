@@ -17,7 +17,6 @@ Your grade is based on your individual effort and your project's technical merit
 * Individual effort is graded based on **links to commits and Pull Requests** that demonstrate your contributions.
 * Technical merit is graded based on the following criteria:
 
-<h2>**INSTRUCTOR REPLACE THIS CRITERIA AS NECESSARY**</h2>
 
  * **Good and proper use of HTML**
    * Clear, readable, and efficient structure

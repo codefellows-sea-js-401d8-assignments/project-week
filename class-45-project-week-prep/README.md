@@ -9,7 +9,11 @@ For your final project, your task is to work with a team to build a web site tha
 
 Here are some repos of past student projects that you may explore to get a sense of what past teams have produced:
 
-* [Hue-Manatee] (https://github.com/hue-manatee/hue-manatee)
+* [Hue-Manatee githut] (https://github.com/hue-manatee/hue-manatee)
+* [Job App heroku]  (http://dashjobs.herokuapp.com/#/signup)
+* [Job App github] (https://github.com/DashJob)
+* [Job Dash github api] (https://github.com/dmcfly85/dash-job-api)
+* [Fit Cliques] https://github.com/fit-cliques/fit_cliques
 
 
 
