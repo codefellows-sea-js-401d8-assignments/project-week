@@ -7,13 +7,13 @@
 
 For your final project, your task is to work with a team to build a web site that simulates a real-world product, service, or game.
 
-Here are some repos of past student projects that you may explore to get a sense of what past teams have produced:
-
 * [Hue-Manatee githut] (https://github.com/hue-manatee/hue-manatee)
 * [Job App heroku]  (http://dashjobs.herokuapp.com/#/signup)
 * [Job App github] (https://github.com/DashJob)
 * [Job Dash github api] (https://github.com/dmcfly85/dash-job-api)
 * [Fit Cliques] (https://github.com/fit-cliques/fit_cliques)
+* [Pong Fellows heroku] (http://pongfellows.herokuapp.com/)
+* [Pong Fellows github] (https://github.com/Code-Fellows-Ping-Pong-Ladder/Code-Fellows-Ping-Pong-Ladder)
 
 
 
